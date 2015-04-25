@@ -1,0 +1,6 @@
+D:\Учеба\С#_5.0\DZ\DZ_25.04.15\Currency_Rates\Currency_Rates\bin\Debug\Currency_Rates.exe.config
+D:\Учеба\С#_5.0\DZ\DZ_25.04.15\Currency_Rates\Currency_Rates\bin\Debug\Currency_Rates.exe
+D:\Учеба\С#_5.0\DZ\DZ_25.04.15\Currency_Rates\Currency_Rates\bin\Debug\Currency_Rates.pdb
+D:\Учеба\С#_5.0\DZ\DZ_25.04.15\Currency_Rates\Currency_Rates\obj\Debug\Currency_Rates.csprojResolveAssemblyReference.cache
+D:\Учеба\С#_5.0\DZ\DZ_25.04.15\Currency_Rates\Currency_Rates\obj\Debug\Currency_Rates.exe
+D:\Учеба\С#_5.0\DZ\DZ_25.04.15\Currency_Rates\Currency_Rates\obj\Debug\Currency_Rates.pdb
